@@ -1,6 +1,8 @@
 # Sistema de Gestión de Stock de equipos e insumos
 
 _realizado con el objetivo es abordar los problemas de información en el sector Depósito de una empresa, Logrando la implementación de un sistema informático automatizado para el control de los datos de stock, que permitiría a las distintas áreas un acceso más rápido y un manejo más eficiente de los mismos._
+
+
 ![Screenshot](inicio.png)
 
 ### Instalación 🔧
