@@ -50,6 +50,8 @@ Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) 
 * Para poder ingresar al sistema web (nombrePrograma), guardar la carpeta “nombreCarpeta” en
 c:\xampp\htdocs\ (o en cualquier otro directorio en el que haya instalado XAMPP).
 
+![Screenshot](login.png)
+
 * Para el ingreso al sistema las cuentas predeterminadas para esta ocasión son:
 _Usuario Administrador:_
 o Usuario = admin
